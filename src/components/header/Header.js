@@ -1,4 +1,4 @@
-import "./header.css";
+import "./Header.css";
 import logo from "../../assets/logo2.png";
 import { CiMenuFries } from "react-icons/ci";
 import { useEffect, useState } from "react";
