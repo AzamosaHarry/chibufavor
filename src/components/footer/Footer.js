@@ -1,4 +1,4 @@
-import "./footer.css";
+import "./Footer.css";
 import logo from "../../assets/logo.png";
 import { BiArrowToTop } from "react-icons/bi";
 import { FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
