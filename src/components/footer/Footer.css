@@ -1,0 +1,21 @@
+.footer {
+}
+.footer__section__one {
+  padding: 2% 15%;
+  display: flex;
+  align-items: start;
+  gap: 60px;
+  margin-bottom: 10px;
+}
+.footer__section__one > div {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 15px;
+}
+.footer__section__two {
+  display: flex;
+  justify-content: start;
+  background: lightgray;
+  padding: 1% 15%;
+}

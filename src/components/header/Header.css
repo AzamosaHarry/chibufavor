@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 6vh;
+  padding: 1% 15%;
+}
+.header__logo {
+  object-fit: cover;
+  height: 3vh;
+}
+.header__nav {
+  margin-left: auto;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.header__nav > li {
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
